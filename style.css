@@ -50,6 +50,9 @@ h2{font-size:24px;}
 .pre-footer h2{color:white;padding:50px 0;display:inline-block;}
 .bottom-menu{float:right;}
 .bottom-menu li{display:inline-block;text-decoration:none;padding-left:3px;}
+.bottom-menu li::after {
+  content: /;
+}
 .main-footer{padding:20px 0;font-size:12px;}
 .copyright{padding-bottom:0;text-transform:uppercase;}
 .clearfix::after{content:"";display:table;clear:both;}
