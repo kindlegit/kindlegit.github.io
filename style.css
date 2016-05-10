@@ -53,7 +53,9 @@ h2{font-size:24px;}
 .bottom-menu li::after {
   content: "/";
 }
-
+.bottom-menu li:last-child::after {
+  content: '';
+}
 .main-footer{padding:20px 0;font-size:12px;}
 .copyright{padding-bottom:0;text-transform:uppercase;}
 .clearfix::after{content:"";display:table;clear:both;}
