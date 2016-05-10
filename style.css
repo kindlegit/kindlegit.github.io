@@ -49,7 +49,7 @@ h2{font-size:24px;}
 .pre-footer .btn{float:right;margin-top:47px;}
 .pre-footer h2{color:white;padding:50px 0;display:inline-block;}
 .bottom-menu{float:right;}
-.bottom-menu li{display:inline-block;text-decoration:none;padding-left:3px;}
+.bottom-menu li{display:inline-block;text-decoration:none;}
 .bottom-menu li::after {
   content: "/";
 }
