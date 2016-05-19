@@ -10,7 +10,7 @@ ul{padding-left:1.4em;list-style:square;}
 blockquote, q{quotes:none;}
 blockquote:before, blockquote:after,
 q:before, q:after{content:'';content:none;}
-body{font-family:'novecento_sans_widebook', 'PT Sans', 'Arial', sans-serif;max-width:1450px;min-width:400px;font-size:14px;font-weight:bold;color:#737373;text-transform:uppercase;}
+body{font-family:'novecento_sans_widebook', 'PT Sans', 'Arial', sans-serif;max-width:1450px;min-width:360px;font-size:14px;font-weight:bold;color:#737373;text-transform:uppercase;}
 a{text-decoration:none;color:inherit;}
 h2{font-size:24px;}
 .main-nav a:hover,
@@ -116,7 +116,7 @@ iframe{margin-bottom:50px;}
 .logo h2{font-size:20px;}
 .potrfolio h3{font-size:15px;}
 h2{font-size:22px;}
-.fa{font-size:14px;}
+.fa{font-size:15px;}
 .main-nav{padding-top:10px;}
 .devices{margin-top:30px;}
 .btn{padding:10px 15px;font-size:12px;}
